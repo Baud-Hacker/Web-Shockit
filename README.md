@@ -26,3 +26,5 @@ You can stop the tool from waithing for a reponse from the server via commething
 Command example: 'python webShockit.py [bin|txt] [wordlist file] [request file] [wss://|ws:// URL]
 
 ```
+
+This tool was buit for my work at [sencode](https://sencode.co.uk)
