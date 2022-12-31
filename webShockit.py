@@ -61,7 +61,7 @@ if __name__ == "__main__":
      `888'    `888'      888    .o  888   888      oo     .d8P  888   888  888   888 888   .o8  888 `88b.   888    888 . 
       `8'      `8'       `Y8bod8P'  `Y8bod8P'      8\"\"88888P'  o888o o888o `Y8bod8P' `Y8bod8P' o888o o888o o888o   \"888\" 
 
-Command example: 'python main.py [bin|txt] [wordlist file] [request file] [wss://|ws:// example.com]""")
+Command example: 'python webShockit.py [bin|txt] [wordlist file] [request file] [wss://|ws:// example.com]""")
     else:
         print("""
  oooooo   oooooo     oooo            .o8             .oooooo..o oooo                            oooo         o8o      .   
@@ -72,4 +72,4 @@ Command example: 'python main.py [bin|txt] [wordlist file] [request file] [wss:/
      `888'    `888'      888    .o  888   888      oo     .d8P  888   888  888   888 888   .o8  888 `88b.   888    888 . 
       `8'      `8'       `Y8bod8P'  `Y8bod8P'      8\"\"88888P'  o888o o888o `Y8bod8P' `Y8bod8P' o888o o888o o888o   \"888\" 
 
-Command example: 'python main.py [bin|txt] [wordlist file] [request file] [wss://|ws:// URL]""")
+Command example: 'python webShockit.py [bin|txt] [wordlist file] [request file] [wss://|ws:// URL]""")
