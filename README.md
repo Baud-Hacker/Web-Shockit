@@ -27,4 +27,4 @@ Command example: 'python webShockit.py [bin|txt] [wordlist file] [request file] 
 
 ```
 
-This tool was buit for my work at [sencode](https://sencode.co.uk)
+This tool was buit for my work at [Sencode Cyber Security](https://sencode.co.uk)
